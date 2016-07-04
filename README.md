@@ -16,3 +16,6 @@ Following PRs have been merged into this fork:
 - [#127 Improve doc for using @cached on view](https://github.com/thadeusb/flask-cache/pull/127)
 - [#128 Doc for delete_memoized](https://github.com/thadeusb/flask-cache/pull/128)
 - [#129 tries replacing inspect.getargspec with either signature or getfullargspec if possible](https://github.com/thadeusb/flask-cache/pull/129)
+
+I have created a new caching extension for Flask based on this fork.
+Check it out at: https://github.com/sh4nks/flask-caching
